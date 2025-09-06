@@ -5,7 +5,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 
 ---
 
-### 🟡 Power BI Report Preview 
+### 🟡 Power BI Report Preview
 
 
 
