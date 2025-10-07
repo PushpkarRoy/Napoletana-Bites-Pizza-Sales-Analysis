@@ -13,7 +13,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 ---
 ## 🔍 Project Objectives
 
-- Analyze pizza sales across various dimensions (category, size, day, week, hour)   
+- Analyze pizza sales across various dimensions (category, size, day, week, hour)  
 - Derive meaningful KPIs and trends to support decision-making   
 - Practice SQL query writing and DAX logic building  
 - Create a professional Power BI dashboard for data storytelling  
