@@ -22,7 +22,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 
 ## 📁 Dataset Overview
 
-The project is based on a fictional pizza store's order history:
+The project is based on a fictional pizza store's order history: 
 
 | Column Name         | Description                           |
 |---------------------|---------------------------------------|
