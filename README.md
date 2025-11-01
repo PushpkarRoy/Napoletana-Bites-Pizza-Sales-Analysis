@@ -19,7 +19,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 - Create a professional Power BI dashboard for data storytelling
 
 --- 
-
+ 
 ## 📁 Dataset Overview
 
 The project is based on a fictional pizza store's order history: 
