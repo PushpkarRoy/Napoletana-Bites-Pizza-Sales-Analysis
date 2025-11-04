@@ -24,7 +24,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 
 The project is based on a fictional pizza store's order history: 
 
-| Column Name         | Description                           |
+| Column Name         | Description                           | 
 |---------------------|---------------------------------------|
 | `order_id`          | Unique order identifier               |
 | `order_date`        | Date of order                         |
