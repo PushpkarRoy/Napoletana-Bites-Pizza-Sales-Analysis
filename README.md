@@ -17,7 +17,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 - Derive meaningful KPIs and trends to support decision-making      
 - Practice SQL query writing and DAX logic building  
 - Create a professional Power BI dashboard for data storytelling    
-  
+    
 ---   
   
 ## 📁 Dataset Overview
