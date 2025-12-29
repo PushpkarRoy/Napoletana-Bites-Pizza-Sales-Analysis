@@ -10,7 +10,7 @@ Welcome to **Napoletana Bites**, a complete data analysis project using **SQL** 
 
   
   
----
+---  
 ## 🔍 Project Objectives  
   
 - Analyze pizza sales across various dimensions (category, size, day, week, hour)
